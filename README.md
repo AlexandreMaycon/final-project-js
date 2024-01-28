@@ -1,2 +1,2 @@
 # final-project-js
-Curso feito pela plataforma origamid, aplicando todo o aprendizado durante o curso e transformando em um grande projeto.
+Concluí o curso da plataforma Origamid, onde apliquei integralmente os conhecimentos adquiridos, transformando-os em um projeto robusto e significativo.
